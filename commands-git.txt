@@ -8,3 +8,6 @@ Les 3 commandes de push:
 git add .
 git commit -m ''
 git push
+
+commade qui permet de pull :
+git pull 
