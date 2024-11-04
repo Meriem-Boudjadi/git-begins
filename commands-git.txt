@@ -11,3 +11,9 @@ git push
 
 commade qui permet de pull :
 git pull 
+
+pour crée une branche :
+git branch < nom de la branche >
+
+pour switcher de branche :
+git checkout < nom de la branche >
